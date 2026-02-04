@@ -1,5 +1,4 @@
-import ThemeToggle from "@/ThemeToggle";
-
+import ThemeToggle from "../ThemeToggle";
 
 export default function Home() {
   return (
